@@ -15,6 +15,7 @@ The biggest project I developed:
 - React/ReactNative
 - CI/CD: Github Actions, Jenkins, Drone
 - K8s, Docker
+- Other languages: Golang, Python
 
 💬 Feel free to contact me and let me know what can I do for you  [✉️](mailto:thrall.chen@gmail.com)
 
