@@ -24,7 +24,7 @@ The biggest project I developed:
 ### Stats:
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=imdgr886&show_icons=true&locale=en&count_private=true&theme=" alt="Zach" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=imdgr886&show_icons=true&locale=en&count_private=true&hide=stars" alt="Zach" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdgr886&show_icons=true&locale=en&layout=compact" alt="Zach" />
 </p>
