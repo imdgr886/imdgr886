@@ -19,6 +19,8 @@ The biggest project I developed:
 
 💬 Feel free to contact me and let me know what can I do for you  [✉️](mailto:thrall.chen@gmail.com)
 
+[🤝 Hire Me](https://www.upwork.com/freelancers/~0178967451c29be412?viewMode=1)
+
 <br>
 
 ### Stats:
