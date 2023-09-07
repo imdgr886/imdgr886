@@ -4,7 +4,7 @@ I have a lot experience with the full-stack. I mainly work on the back-end, fron
   
 The biggest project I developed:  
 - 🏆 Have more than **1 millions users**  
-- ✌️ Over **500+ QPS**  
+- ✌️ Over **5000+ QPS**  
 - 🔨 Implement CI/CD by Github Actions
 - ☁️ Kubernets (k8s) deployment with a lot integrations (Grafana, Prometheus, Kong, etc)
 
@@ -24,7 +24,7 @@ The biggest project I developed:
 ### Stats:
 
 <p>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=imdgr886&show_icons=true&locale=en&count_private=true&hide=stars" alt="Zach" /> -->
+<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=imdgr886&show_icons=true&locale=en&count_private=true&hide=stars" alt="Zach" /> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imdgr886&show_icons=true&locale=en&layout=compact&hide=shell,html&langs_count=8" alt="Zach" />
 </p>
